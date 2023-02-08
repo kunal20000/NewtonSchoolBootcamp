@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintAllSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/TribonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleContest/CakeBet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleContest/IncreasingDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleContest/IncreasingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleContest/PyramidContest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TribonacciNumber">
-    <configuration name="FunctionCalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.FunctionCalls" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ModuleContest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PyramidContest">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.SumOfNNumbers" />
+    <configuration name="PyramidContest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModuleContest.PyramidContest" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="ModuleContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PyramidContest" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.TribonacciNumber" />
         <item itemvalue="Application.PrintAllSubarrays" />
         <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.FunctionCalls" />
-        <item itemvalue="Application.SumOfNNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675792954168</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1675794580481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675794580481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
