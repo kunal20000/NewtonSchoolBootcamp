@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="basic">
-      <change afterPath="$PROJECT_DIR$/src/Hashing/Hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/Hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/ArrSortedRotatedClockwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/MakeAandBEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/MinimumAdjacentDifferenceArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/MohitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/OddSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MatrixProblem/MaximumDifferenceArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixProblem/MaximumDifferenceArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +53,13 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hashmap">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayList" />
+  <component name="RunManager" selected="Application.MakeAandBEqual">
+    <configuration name="ArrSortedRotatedClockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixProblem.ArrSortedRotatedClockwise" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="MatrixProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayListExample" />
+    <configuration name="MakeAandBEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixProblem.MakeAandBEqual" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="MatrixProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
+    <configuration name="MinimumAdjacentDifferenceArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixProblem.MinimumAdjacentDifferenceArray" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="MatrixProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.Hashmap" />
+    <configuration name="MohitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixProblem.MohitArray" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="MatrixProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.Hashset" />
+    <configuration name="OddSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixProblem.OddSubArray" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="MatrixProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hashmap" />
-        <item itemvalue="Application.Hashset" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.ArrayList" />
+        <item itemvalue="Application.MakeAandBEqual" />
+        <item itemvalue="Application.OddSubArray" />
+        <item itemvalue="Application.MohitArray" />
+        <item itemvalue="Application.ArrSortedRotatedClockwise" />
+        <item itemvalue="Application.MinimumAdjacentDifferenceArray" />
       </list>
     </recent_temporary>
   </component>
