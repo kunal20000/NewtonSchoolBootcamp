@@ -17,7 +17,7 @@ public class ArrayListExample {
 
         //get elements
         int element = list.get(0);
-       System.out.println(element);
+        System.out.println(element);
 
        // add el in list
         list.add(1,9);

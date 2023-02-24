@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="basic">
-      <change afterPath="$PROJECT_DIR$/src/ArraysBasic/SubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/MergeConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/MinCutTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixProblem/ifNMultiply2NExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/FindIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/IntersectionOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/KSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/MaxComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/MaxSubarraySizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/MinimumAbsoluteDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/PerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/SumOfCubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/TargetDifference.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="sorting">
+      <change afterPath="$PROJECT_DIR$/src/Determinat/SimpleDeterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/CountOfWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/StaircaseCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/DivisibiltyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/OddCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RevString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointer/SquaredSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/SumOfNNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/SumOfNNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,27 +44,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowRun.ShowToolbar": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedList" />
       <recent name="MatrixProblem" />
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindIt">
-    <configuration name="FindIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.FindIt" />
+  <component name="RunManager" selected="Application.RevString">
+    <configuration name="DivisibiltyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.DivisibiltyTest" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.MaxComplement" />
+    <configuration name="OddCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.OddCharacter" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.PerfectSquare" />
+    <configuration name="RevString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.RevString" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfCubes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.SumOfCubes" />
+    <configuration name="SimpleDeterminat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Determinat.SimpleDeterminat" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="Determinat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.TargetDifference" />
+    <configuration name="SquaredSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.SquaredSortedArray" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindIt" />
-        <item itemvalue="Application.SumOfCubes" />
-        <item itemvalue="Application.PerfectSquare" />
-        <item itemvalue="Application.TargetDifference" />
-        <item itemvalue="Application.MaxComplement" />
+        <item itemvalue="Application.RevString" />
+        <item itemvalue="Application.OddCharacter" />
+        <item itemvalue="Application.DivisibiltyTest" />
+        <item itemvalue="Application.SimpleDeterminat" />
+        <item itemvalue="Application.SquaredSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676543356883</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="sorting">
+      <created>1676728613922</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676728613922</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +252,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic" />
+    <MESSAGE value="sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
