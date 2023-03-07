@@ -32,6 +32,23 @@ public class linkedList {
 
     }
 
+    static Node removeNode(Node head, Node node){
+        if(node==head){
+            head=head.next;
+            node.next=null;
+
+        }else{
+            //find one node to previous node
+            Node ptr=head;
+            while(ptr.next!=node){
+                ptr=ptr.next;
+            }
+            ptr.next=node.next;
+            node.next=null;
+        }
+        return head;
+    }
+
     static class Node{
         int data;
         Node next;

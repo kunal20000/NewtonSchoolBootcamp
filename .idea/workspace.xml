@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="sorting">
-      <change afterPath="$PROJECT_DIR$/src/Determinat/SimpleDeterminat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/linkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/CountOfWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/StaircaseCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/DivisibiltyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/OddCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/RevString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/SquaredSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HashingOfpair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/NumberOfUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteEvenNodeFromTheList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteMiddleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/SumOfNNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/SumOfNNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/linkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/linkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RevString">
+  <component name="RunManager" selected="Application.StackImplementation">
     <configuration name="DivisibiltyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.DivisibiltyTest" />
       <module name="NewtonSchoolBootcamp" />
@@ -112,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaredSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.SquaredSortedArray" />
+    <configuration name="StackImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.StackImplementation" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackImplementation" />
         <item itemvalue="Application.RevString" />
         <item itemvalue="Application.OddCharacter" />
         <item itemvalue="Application.DivisibiltyTest" />
         <item itemvalue="Application.SimpleDeterminat" />
-        <item itemvalue="Application.SquaredSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676728613922</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="sorting">
+      <created>1677247084845</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677247084845</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
