@@ -20,7 +20,7 @@ public class DeleteEvenNodeFromTheList {
                 current = current.next;
             }
         }
-        while(current!= start){
+        while(current!= start);{
             return start;
         }
     }

@@ -11,7 +11,7 @@ public class StackImplementation {
         st.pop();          //remove function
         st.peek();      //top of the stack
         st.size();      //size of the stack
-        st.isEmpty();
+        st.isEmpty();  //is Check whether is empty or not
         System.out.println(st);
     }
 }
