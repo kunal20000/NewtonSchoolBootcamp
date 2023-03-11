@@ -42,7 +42,7 @@ public class LL {
     }
 
     public void printList(){
-        Node head;
+        Node head= null;
         if(head == null){
             System.out.println("list is empty");
             return;

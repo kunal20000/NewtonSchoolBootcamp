@@ -43,7 +43,7 @@ public class MergeTwoSortedLinkedList {
 
 
    }
-   class Node {
+   static class Node {
         Node next;
         int val;
 

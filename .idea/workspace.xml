@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="sorting">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeletionInDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertionInSortedDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/MakeItCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLinkedList.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Linked list">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtGivenPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtTheHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtTheTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReversingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/NearestSmallestInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/parenthesisSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/DeleteEvenNodeFromTheList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/DeleteEvenNodeFromTheList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/StackImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/StackImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/InsertionInSortedDoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/LinkedList/LL.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,20 +62,7 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LL">
-    <configuration name="DivisibiltyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.DivisibiltyTest" />
-      <module name="NewtonSchoolBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StackBasics">
     <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.LL" />
       <module name="NewtonSchoolBootcamp" />
@@ -83,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.OddCharacter" />
+    <configuration name="NearestSmallestInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.NearestSmallestInteger" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.RevString" />
+    <configuration name="StackBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.StackBasics" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parenthesisSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.parenthesisSubstring" />
+      <module name="NewtonSchoolBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackBasics" />
+        <item itemvalue="Application.NearestSmallestInteger" />
+        <item itemvalue="Application.parenthesisSubstring" />
         <item itemvalue="Application.LL" />
         <item itemvalue="Application.StackImplementation" />
-        <item itemvalue="Application.RevString" />
-        <item itemvalue="Application.OddCharacter" />
-        <item itemvalue="Application.DivisibiltyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678167442368</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Linked list">
+      <created>1678366215248</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678366215248</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,7 +277,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="basic" />
     <MESSAGE value="sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
+    <MESSAGE value="Linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
