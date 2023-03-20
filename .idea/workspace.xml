@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Linked list">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtGivenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtTheHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertNodeAtTheTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReversingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/NearestSmallestInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StackBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/parenthesisSubstring.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Stack">
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HashingBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Add1NumberInLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/AddTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteNodeWithoutHeadPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/BuildingTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/NextlargerElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/InsertionInSortedDoublyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashing/HashingOfpair.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +61,39 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackBasics">
-    <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LL" />
+  <component name="RunManager" selected="Application.BuildingTower">
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.Basic" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildingTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.BuildingTower" />
+      <module name="NewtonSchoolBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashingBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hashing.HashingBasic" />
+      <module name="NewtonSchoolBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.StackBasics" />
+    <configuration name="NextlargerElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.NextlargerElement" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.StackImplementation" />
-      <module name="NewtonSchoolBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="parenthesisSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.parenthesisSubstring" />
-      <module name="NewtonSchoolBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackBasics" />
+        <item itemvalue="Application.BuildingTower" />
+        <item itemvalue="Application.Basic" />
+        <item itemvalue="Application.HashingBasic" />
+        <item itemvalue="Application.NextlargerElement" />
         <item itemvalue="Application.NearestSmallestInteger" />
-        <item itemvalue="Application.parenthesisSubstring" />
-        <item itemvalue="Application.LL" />
-        <item itemvalue="Application.StackImplementation" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678366215248</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Stack">
+      <created>1678521383506</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678521383506</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +284,8 @@
     <MESSAGE value="basic" />
     <MESSAGE value="sorting" />
     <MESSAGE value="Linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked list" />
+    <MESSAGE value="Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
