@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Practise">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/Consonat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/FarenhitToCelcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/NumberDilemma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/SimpleInput_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/StringTypecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/simpleInput_Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModuleContest/sumQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/SimpleSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/areaOfSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/AddTwoNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssignmentPractise/Consonat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentPractise/Consonants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +61,7 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTypecast">
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Basic" />
-      <module name="NewtonSchoolBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Operators">
     <configuration name="BuildingTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.BuildingTower" />
       <module name="NewtonSchoolBootcamp" />
@@ -93,12 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashingBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.HashingBasic" />
+    <configuration name="Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPractise.Consonants" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="AssignmentPractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPractise.Operators" />
+      <module name="NewtonSchoolBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.Consonants" />
         <item itemvalue="Application.StringTypecast" />
         <item itemvalue="Application.sumQuestion" />
         <item itemvalue="Application.BuildingTower" />
-        <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.HashingBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679511744376</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Practise">
+      <created>1683199467998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683199467998</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
