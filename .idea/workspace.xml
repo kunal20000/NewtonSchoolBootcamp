@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="LeapYear or not">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/PennyandCharity.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Penny and Charity">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/PokemonMaster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683813448260</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Penny and Charity">
+      <created>1683813982061</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683813982061</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +348,8 @@
     <MESSAGE value="Profit" />
     <MESSAGE value="Tic Tac Toe" />
     <MESSAGE value="LeapYear or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeapYear or not" />
+    <MESSAGE value="Penny and Charity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Penny and Charity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
