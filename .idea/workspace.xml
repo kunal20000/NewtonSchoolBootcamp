@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Penny and Charity">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/PokemonMaster.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Pokemon master">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/StudentGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683813982061</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Pokemon master">
+      <created>1683814767839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1683814767839</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +357,8 @@
     <MESSAGE value="Tic Tac Toe" />
     <MESSAGE value="LeapYear or not" />
     <MESSAGE value="Penny and Charity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Penny and Charity" />
+    <MESSAGE value="Pokemon master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pokemon master" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
