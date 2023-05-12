@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Practise">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/Consonat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/FarenhitToCelcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/NumberDilemma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/SimpleInput_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/StringTypecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/simpleInput_Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModuleContest/sumQuestion.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Knight">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/Knight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/AddTwoNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +58,7 @@
       <recent name="ModuleContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTypecast">
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Basic" />
-      <module name="NewtonSchoolBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Operators">
     <configuration name="BuildingTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.BuildingTower" />
       <module name="NewtonSchoolBootcamp" />
@@ -93,12 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashingBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.HashingBasic" />
+    <configuration name="Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPractise.Consonants" />
       <module name="NewtonSchoolBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="AssignmentPractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPractise.Operators" />
+      <module name="NewtonSchoolBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.Consonants" />
         <item itemvalue="Application.StringTypecast" />
         <item itemvalue="Application.sumQuestion" />
         <item itemvalue="Application.BuildingTower" />
-        <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.HashingBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +276,77 @@
       <option name="project" value="LOCAL" />
       <updated>1679511744376</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Practise">
+      <created>1683199467998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683199467998</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Practise">
+      <created>1683215823291</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683215823291</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Practise">
+      <created>1683390431908</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683390431908</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Profit">
+      <created>1683485023850</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485023850</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Tic Tac Toe">
+      <created>1683813346791</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683813346791</updated>
+    </task>
+    <task id="LOCAL-00025" summary="LeapYear or not">
+      <created>1683813448260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683813448260</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Penny and Charity">
+      <created>1683813982061</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683813982061</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Pokemon master">
+      <created>1683814767839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1683814767839</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Find Student grades">
+      <created>1683815427852</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1683815427852</updated>
+    </task>
+    <task id="LOCAL-00029" summary="FizzBuzz">
+      <created>1683816582644</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683816582644</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +367,14 @@
     <MESSAGE value="Linked list" />
     <MESSAGE value="Stack" />
     <MESSAGE value="Practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise" />
+    <MESSAGE value="Profit" />
+    <MESSAGE value="Tic Tac Toe" />
+    <MESSAGE value="LeapYear or not" />
+    <MESSAGE value="Penny and Charity" />
+    <MESSAGE value="Pokemon master" />
+    <MESSAGE value="Find Student grades" />
+    <MESSAGE value="FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

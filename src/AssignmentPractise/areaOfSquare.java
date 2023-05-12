@@ -2,10 +2,13 @@ package AssignmentPractise;
 
 import java.util.Scanner;
 
-public class Consonat {
+public class areaOfSquare {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s = sc.nextLine();
-        if()
+        int side = sc.nextInt();
+
+        int area = (side*side);
+        System.out.println(area);
+
     }
 }
