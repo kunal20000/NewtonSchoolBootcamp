@@ -1,5 +1,7 @@
 package AssignmentPractise;
 
+import java.util.Scanner;
+
 public class ShinchanAndKazma {
     public static void main (String[] args) {
         // Your code here
