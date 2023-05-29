@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Time Distance speed">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/SaraPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignmentPractise/ShinchanAndKazma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentPractise/ShinchanAndKazma.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="sara phone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -375,7 +371,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684153546715</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="code">
+      <created>1684159484393</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159484393</updated>
+    </task>
+    <task id="LOCAL-00035" summary="sara phone">
+      <created>1684159526249</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159526249</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +416,9 @@
     <MESSAGE value="Knight" />
     <MESSAGE value="Conditional Statement" />
     <MESSAGE value="Time Distance speed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Distance speed" />
+    <MESSAGE value="code" />
+    <MESSAGE value="sara phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="sara phone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
