@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="sara phone" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BasicOfProgramming/Good_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -385,7 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684159526249</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="contest question">
+      <created>1685370184683</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1685370184683</updated>
+    </task>
+    <task id="LOCAL-00037" summary="contest question">
+      <created>1685370330696</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685370330696</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +435,8 @@
     <MESSAGE value="Time Distance speed" />
     <MESSAGE value="code" />
     <MESSAGE value="sara phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="sara phone" />
+    <MESSAGE value="contest question" />
+    <option name="LAST_COMMIT_MESSAGE" value="contest question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
