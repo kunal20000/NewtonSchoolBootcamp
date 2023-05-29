@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="Knight">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentPractise/ConditionalStatementEvenOrOdd.java" afterDir="false" />
+    <list default="true" id="6c438d47-16c7-4b2c-9318-19f86614fc21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BasicOfProgramming/Good_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -353,7 +353,56 @@
       <option name="project" value="LOCAL" />
       <updated>1683866832322</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Conditional Statement">
+      <created>1684152983255</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684152983255</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Conditional Statement">
+      <created>1684153180683</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684153180683</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Time Distance speed">
+      <created>1684153546715</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684153546715</updated>
+    </task>
+    <task id="LOCAL-00034" summary="code">
+      <created>1684159484393</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159484393</updated>
+    </task>
+    <task id="LOCAL-00035" summary="sara phone">
+      <created>1684159526249</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159526249</updated>
+    </task>
+    <task id="LOCAL-00036" summary="contest question">
+      <created>1685370184683</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1685370184683</updated>
+    </task>
+    <task id="LOCAL-00037" summary="contest question">
+      <created>1685370330696</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685370330696</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +431,12 @@
     <MESSAGE value="Find Student grades" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="Knight" />
-    <option name="LAST_COMMIT_MESSAGE" value="Knight" />
+    <MESSAGE value="Conditional Statement" />
+    <MESSAGE value="Time Distance speed" />
+    <MESSAGE value="code" />
+    <MESSAGE value="sara phone" />
+    <MESSAGE value="contest question" />
+    <option name="LAST_COMMIT_MESSAGE" value="contest question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
