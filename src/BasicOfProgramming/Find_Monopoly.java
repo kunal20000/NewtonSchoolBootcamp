@@ -1,5 +1,7 @@
 package BasicOfProgramming;
 
+import java.util.Scanner;
+
 public class Find_Monopoly {
     public static void main (String[] args) {
         // Your code here
