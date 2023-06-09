@@ -1,5 +1,7 @@
 package AssignmentPractise;
 
+import java.util.Scanner;
+
 public class Knight {
     static int Knight(int X, int Y){
 //Ener your code here
