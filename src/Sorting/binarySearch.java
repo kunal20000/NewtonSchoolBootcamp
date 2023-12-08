@@ -4,9 +4,6 @@ import java.awt.*;
 import java.util.Scanner;
 
 
-// arr={1,2,3,4,5,6, 7}
-// target element 6
-
 public class sorting {
 
     static int binarySearch(int[] arr, int target){
