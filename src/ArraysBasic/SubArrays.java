@@ -1,6 +1,6 @@
 package ArraysBasic;
 
-import java.util.Scanner;
+
 
 public class SubArrays {
     static void subArrays(int[] arr){

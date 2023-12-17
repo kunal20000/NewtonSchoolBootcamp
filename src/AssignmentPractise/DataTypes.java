@@ -25,5 +25,7 @@ public class DataTypes {
         float c = sc.nextFloat();
         double d = sc.nextDouble();
         char e = sc.next().charAt(0);
+        printDataTypes(a, b, c, d, e);
+        sc.close();
     }
 }

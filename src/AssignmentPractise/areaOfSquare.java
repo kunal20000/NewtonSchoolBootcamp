@@ -9,6 +9,6 @@ public class areaOfSquare {
 
         int area = (side*side);
         System.out.println(area);
-
+        sc.close();
     }
 }

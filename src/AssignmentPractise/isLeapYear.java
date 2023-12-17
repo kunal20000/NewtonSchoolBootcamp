@@ -15,5 +15,6 @@ public class isLeapYear {
         }else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }

@@ -9,5 +9,7 @@ public class Consonants {
         String s1 = "";
         s1= s.replaceAll("[aeiouAEIOU]","");
         System.out.println(s1);
+
+        sc.close();
     }
 }

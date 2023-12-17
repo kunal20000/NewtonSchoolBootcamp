@@ -15,5 +15,6 @@ public class FarenhitToCelcius {
         Scanner sc = new Scanner(System.in);
         int F = sc.nextInt();
         farhrenheitToCelsius(F);
+        sc.close();
     }
 }
