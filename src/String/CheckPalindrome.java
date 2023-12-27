@@ -28,3 +28,5 @@ public class CheckPalindrome {
 
     }
 }
+// time complexity O(N);
+// space complexity O(1);

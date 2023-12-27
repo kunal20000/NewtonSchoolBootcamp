@@ -13,9 +13,9 @@ public class palindromeNumber {
         int reaminder;
         temp = n;
         while (n > 0) {
-            reaminder = n % 10;// getting reaminder
+            reaminder = n % 10;// for taking last digit of number
             sum = (sum * 10 + reaminder);
-            n = n / 10;
+            n = n / 10; // it will give updated value like num is 123 reminder 3 and updated value is 12 then again same cycle
         }
         if (temp == sum)
         {
@@ -27,3 +27,5 @@ public class palindromeNumber {
 
     }
 }
+// time complexity is O(logn);
+// space complexity is O(logn);
