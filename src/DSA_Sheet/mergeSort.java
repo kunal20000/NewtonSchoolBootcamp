@@ -67,3 +67,77 @@ public class mergeSort {
     }
 
 }
+// class HelloWorld {
+//     public static void main(String[] args) {
+//         int[] arr = {10,8,7,6,5,4,3,2,1};
+//         int n = arr.length;
+//         divide(arr,0,n-1);
+//         for(int i=0;i<n;i++){
+//             System.out.print(arr[i]+" ");
+//         }
+//     }
+    
+//     static void divide(int[] arr, int l, int r){
+//         if(l>=r){
+//             return;
+//         }
+        
+//         int m = l+(r-l)/2;
+//         divide(arr,l,m);
+//         divide(arr,m+1,r);
+//         merge(arr,l,m,r);
+//     }
+//     static void merge(int[] arr, int l, int m, int r){
+//         // sizes of subaaray to be merged
+//         int n1 = m-l+1;
+//         int n2 = r-m;
+        
+//         // create temp arrays
+        
+//         int[] left = new int[n1];
+//         int[] right = new int[n2];
+        
+//         // copy data to temp arrays
+//         for(int i=0;i<n1;i++){
+//             left[i]= arr[l+i];
+//         }
+//         for(int j=0;j<n2;j++){
+//             right[j]= arr[m+1+j];
+//         }
+        
+//         // merge the temp arrays
+        
+//         // initial indices of 1st and sec subaarays
+//         int i=0, j=0;
+//         // initial indices of merged subarrays
+//         int k =l;
+        
+//         while(i<n1 && j<n2)
+//         {
+//             if(left[i]<=right[j]){
+//                 arr[k]= left[i];
+//                 i++;
+//             }else{
+//                 arr[k]= right[j];
+//                 j++;
+//             }
+//             k++;
+//         }
+        
+//         // copy reamining elements of left[i] if any
+        
+//         while(i<n1){
+//             arr[k]= left[i];
+//             i++;
+//             k++;
+//         }
+        
+//         // copy reamining elements of right[j] if any
+//         while(j<n2){
+//             arr[k]=right[j];
+//             j++;
+//             k++;
+//         }
+        
+//     }
+// }
